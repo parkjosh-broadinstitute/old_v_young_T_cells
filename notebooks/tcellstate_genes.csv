@@ -1,0 +1,18 @@
+Naïve,Effector Memory,Cytotoxic,Th1,Th2,Exhausted,Regulatory
+Lef1,Lgals1,Eomes,Cxcr3,Il1rl1,Cd200,Foxp3
+Sell,S100a4,Gzmk,Ccl5,Gata3,Lag3,Il2ra
+Ccr7,Itgb1,Ctla2a,Tbx21,Il13,Pdcd1,Ikzf2
+Igfbp4,Cd44,Gzmb,Ifng,Il5,Tnfsf8,
+,Tcf7,Gzma,Il12rb2,Il17rb,,
+,S1pr1,Runx3,Hlx,Ltb4r1,,
+,Itgb7,Nkg7,Hopx,Il4,,
+,Itgb1,Cst7,Eomes,Il4ra,,
+,Cd82,Fcrl6,Runx2,Ccr4,,
+,Tmem176a,Slamf7,Cx3cr1,Ccr8,,
+,Tmem176b,Cx3cr1,Itgb1,Tnfsf13b,,
+,S100a10,Prf1,Runx3,Igfbp7,,
+,S100a11,Lamp1,,Plac8,,
+,,Ifng,,Gclc,,
+,,,,Serpinb6a,,
+,,,,Vdr,,
+,,,,Pparg,,
